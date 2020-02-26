@@ -13,4 +13,7 @@ Your solution should be written using ASP.NET Core. Feel free to use any other t
   - Star Count
 - Be sure to write your code (both front-end and back-end) in a way that can be extended in the future (for example, if we also wanted to integrate with other platforms such as BitBucket)
 
+# Submission
+Push your submission to a branch on this repository with the name `submissions/{your-name}`
+
 # Good Luck!
